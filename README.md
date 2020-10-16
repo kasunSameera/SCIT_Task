@@ -8,7 +8,7 @@ Set your userName and password to h2 database in the Application.property file.
 
 ## Todo
 Image upload has implemented but has an error.
-Didn't complete the pat slip part and the angular part.
+Didn't complete the pay slip part and the angular part.
 Didn't Dockerize image.
 
 ##  Usage
